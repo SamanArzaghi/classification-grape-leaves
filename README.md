@@ -15,6 +15,19 @@ You can get the dataset with the following link: https://www.muratkoklu.com/data
 
 # Libraries
 
+The main librarie that i use for neural networks is TensorFlow,
+
+![Example screenshot](./img/tensorflow.png)
+
+
+also i tried the transfer learning with PyTorch to try somthing different(why not?),
+
+<img src="./img/pytorch.png" />
+
+and for the SVM part i used ScikitLearn.
+
+<img src="./img/1200px-Scikit_learn_logo_small.svg.png" align="right" />
+
 
 
 
